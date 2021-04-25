@@ -20,8 +20,8 @@ const IndexPage = () => (
     <Helmet lang="en" title="gatsby-starter-sane" />
     <Title>gatsby-starter-sane</Title>
     <p>
-      This is a <ExternalLink href="https://gatsbyjs.org">Gatsby</ExternalLink>{" "}
-      starter to preserve your sanity. View the code{" "}
+      A <ExternalLink href="https://gatsbyjs.org">Gatsby</ExternalLink> starter
+      to keep your sanity. View the code{" "}
       <ExternalLink href="https://github.com/rocketll/gatsby-starter-sane">
         here
       </ExternalLink>

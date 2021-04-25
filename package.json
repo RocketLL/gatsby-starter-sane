@@ -2,7 +2,7 @@
   "name": "gatsby-starter-sane",
   "version": "0.1.0",
   "private": true,
-  "description": "A sane starter for Gatsby",
+  "description": "A Gatsby starter to keep your sanity",
   "author": "Lucas Yunkyu Lee <me@luc.li>",
   "keywords": [
     "gatsby"

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "gatsby-starter-sane",
-    description: "A sane starter for Gatsby",
+    description: "A Gatsby starter to keep your sanity",
     author: "Lucas Yunkyu Lee",
   },
   plugins: [
