@@ -3,6 +3,7 @@ module.exports = {
     title: "gatsby-starter-sane",
     description: "A Gatsby starter to keep your sanity",
     author: "Lucas Yunkyu Lee",
+    siteUrl: "https://example.com", // Needed for building
   },
   plugins: [
     "gatsby-plugin-styled-components", // Uses styled-components for styling, ...
