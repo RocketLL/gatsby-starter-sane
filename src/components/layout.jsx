@@ -9,7 +9,6 @@ import GlobalStyle from "./global-styles"
 const Layout = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
-      {" "}
       {/* Theme support */}
       <Wrapper>
         <GlobalStyle /> {/* Global style injection */}
